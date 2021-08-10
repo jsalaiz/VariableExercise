@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\obj\Debug\net472\VariableExercise.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\obj\Debug\net472\VariableExercise.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\obj\Debug\net472\VariableExercise.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\obj\Debug\net472\VariableExercise.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\bin\Debug\net472\VariableExercise.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\bin\Debug\net472\VariableExercise.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\bin\Debug\net472\VariableExercise.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\obj\Debug\net472\VariableExercise.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\VariableExercise\VariableExercise\VariableExercise\obj\Debug\net472\VariableExercise.pdb
